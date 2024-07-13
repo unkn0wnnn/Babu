@@ -3,6 +3,7 @@
  A virtual assistant named BabuUploading My Video.mp4…
 
 Uploading My Video.mp4…
+![resized](https://github.com/user-attachments/assets/3b5c5774-7977-46b9-826f-2c5ce49c36d5)
 
 ![vlcsnap-error524 jpg](https://github.com/user-attachments/assets/6941a404-df68-4f45-af9e-62d45f0862c7)
 
