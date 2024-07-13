@@ -1,7 +1,10 @@
+
 # Babu
- A virtual assistant named Babu
+ A virtual assistant named BabuUploading My Video.mp4…
 
 Uploading My Video.mp4…
+
+![vlcsnap-error524 jpg](https://github.com/user-attachments/assets/6941a404-df68-4f45-af9e-62d45f0862c7)
 
 still working on it ;
 
