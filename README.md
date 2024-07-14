@@ -1,8 +1,12 @@
 
+
+
+
+
 # Babu
 A virtual assistant named Babu
 (its a replica of Disney's Wall-E , one of my Favourites :)
-
+https://github.com/user-attachments/assets/3f0c8ac9-38e8-4ce5-9d07-6a642fa17d5a
 Uploading My Video.mp4…
 
 ![resized](https://github.com/user-attachments/assets/3b5c5774-7977-46b9-826f-2c5ce49c36d5)
